@@ -1,2 +1,2 @@
-# Project-for-a-14-15-years-old
-Two of my projects when I was 14 and 15 years old. 3 years have gone until now. I started HTML at 11, but when I discovered PHP it was like a revealation. I made a Online Game, with online players (stocks, easy to code and store) at 14 years old, and a counter app at 15 years old with Android Studio. These are really good souvenirs, when I used to love coding and debugging, before ChatGPT broke my heart into addicted promptor !
+# Online Trading
+Two of my projects when I was 14 years old. 4 years have gone until now. I started HTML at 11, but when I discovered PHP it was like a revealation, and it unlocks the whole WWW to me. I made a Online Game, with online players (stocks, easy to code and store) at 14 years old. These are really good souvenirs, when I used to love coding and debugging, before ChatGPT broke my heart into addicted promptor !
